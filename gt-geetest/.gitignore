@@ -1,0 +1,10 @@
+.idea
+vendor
+logs
+*.log
+*.exe
+extra
+config.example.conf
+*.jpg
+*.png
+static
